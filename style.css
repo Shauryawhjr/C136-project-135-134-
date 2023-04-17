@@ -1,0 +1,15 @@
+body{
+    background-image: url(doodle.jpg);
+}
+
+.heading{
+    width: 100%;
+    font-size: large;
+    border: 5px ridge gray;
+}
+
+.note{
+    color:rgb(183, 252, 188);
+    font-size: medium;
+
+}
